@@ -1,1 +1,2 @@
-# tiles
+# Map Tiles
+The map I created I decided to focus on the Pacific Northwest Region of the United States and Canada (many people include Canada as the PNW). I decided the center point to be Vancouver, BC, Canada since that seemed to be the center of the PNW. I also decided the coloring of the map because I thought the colors went well together and did a good job of representing the less bright side of the PNW. I decided to do the zoom level of 5 because I thought it fully encompassed the PNW, since I did not want to have too many tiles I only chose the minimum zoom while I was creating the tiles 0 and the maximum as 5.
